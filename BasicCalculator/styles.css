@@ -1,0 +1,26 @@
+body {
+    background-size: cover;
+    font-family: 'Helvetica Neue', sans-serif;
+    text-align: center;
+    padding:20px, 0px;
+    margin-top:12%;
+    font-weight: bold;
+}
+span{
+    padding-top:4px;
+    border-bottom: 2px black solid;
+}
+
+button {
+    margin: 40px 20;
+    background: white;
+    color: black;
+    border: 2px solid black;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 15px 28px;
+    
+}
+#separate {
+    margin-top: 0px;
+}
