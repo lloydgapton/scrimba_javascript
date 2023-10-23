@@ -1,1 +1,1 @@
-# scrimba_javascript
+This repository includes scrimba solo projects i did while learning the basics and fundamentals of Javascript.I built a passenger counter application which helps to count the passengers that enters a train station.I also built a basic calculator which adds, subtract, divides and multiply two digits together. 
