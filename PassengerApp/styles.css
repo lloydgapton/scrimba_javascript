@@ -1,0 +1,35 @@
+body {
+    background-image:url(station.jpg);
+    background:cover;
+    text-align: center;
+    margin-top:0px;
+    font-weight: bold;  
+}
+#increment-btn {
+    font-size:50px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    background-color: #8d0000;
+    padding:20px 120px;
+    border-radius: 10px;
+    color:#e6dede;
+}
+#save-btn{
+    font-size:50px;
+    margin-bottom: 0px;
+    background: #026402;
+    padding:20px 200px;
+    border-radius: 10px;
+    color: #e6dede;
+}
+.header {
+    font-size: 100px;
+    margin:0;
+}
+.number {
+    font-size: 100px;
+    margin:0;
+}
+#save-el {
+    font-size: 50px;
+}
