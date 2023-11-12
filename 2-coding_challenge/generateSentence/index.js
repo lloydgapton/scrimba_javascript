@@ -1,0 +1,3 @@
+function generateSentence(desc, arr) {
+    
+}
